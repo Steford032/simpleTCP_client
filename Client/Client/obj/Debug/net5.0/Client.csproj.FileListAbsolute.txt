@@ -1,0 +1,16 @@
+D:\C# projects\Server_Client_V1\Client\Client\bin\Debug\net5.0\Client.exe
+D:\C# projects\Server_Client_V1\Client\Client\bin\Debug\net5.0\Client.deps.json
+D:\C# projects\Server_Client_V1\Client\Client\bin\Debug\net5.0\Client.runtimeconfig.json
+D:\C# projects\Server_Client_V1\Client\Client\bin\Debug\net5.0\Client.runtimeconfig.dev.json
+D:\C# projects\Server_Client_V1\Client\Client\bin\Debug\net5.0\Client.dll
+D:\C# projects\Server_Client_V1\Client\Client\bin\Debug\net5.0\ref\Client.dll
+D:\C# projects\Server_Client_V1\Client\Client\bin\Debug\net5.0\Client.pdb
+D:\C# projects\Server_Client_V1\Client\Client\obj\Debug\net5.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects\Server_Client_V1\Client\Client\obj\Debug\net5.0\Client.AssemblyInfoInputs.cache
+D:\C# projects\Server_Client_V1\Client\Client\obj\Debug\net5.0\Client.AssemblyInfo.cs
+D:\C# projects\Server_Client_V1\Client\Client\obj\Debug\net5.0\Client.csproj.CoreCompileInputs.cache
+D:\C# projects\Server_Client_V1\Client\Client\obj\Debug\net5.0\Client.dll
+D:\C# projects\Server_Client_V1\Client\Client\obj\Debug\net5.0\ref\Client.dll
+D:\C# projects\Server_Client_V1\Client\Client\obj\Debug\net5.0\Client.pdb
+D:\C# projects\Server_Client_V1\Client\Client\obj\Debug\net5.0\Client.genruntimeconfig.cache
+D:\C# projects\Server_Client_V1\Client\Client\obj\Debug\net5.0\Client.csproj.AssemblyReference.cache
